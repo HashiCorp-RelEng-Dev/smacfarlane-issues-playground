@@ -1,5 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Me
-    url: https://some.url
-    about: This is a thing to see what it looks like
+  - name: Release Team Awesome
+    url: https://broken.url
+    about: Cat Specialists
+  - name: Engineering Services
+    url: https://broken.url
+    about: Awesome People making amazing things
